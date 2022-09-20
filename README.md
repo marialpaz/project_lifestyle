@@ -82,3 +82,8 @@ The dataset has 15971 entries and 24 features described below:
 
 **WORK_LIFE_BALANCE_SCORE** - CALCULATED SCORE.
 
+When loaded in pandas this dataset file has a memory usage of 2.9 MB.
+
+<img src="info-lifestyle.png" width="550" height="500">
+
+
