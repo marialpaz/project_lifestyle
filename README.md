@@ -10,3 +10,5 @@ THe development of this project was done according with the following steps:
 - Model Evaluation
 
 ## 2 - The Dataset
+The dataset has 15971 entries and 24 features described below:
+
