@@ -85,4 +85,4 @@ The dataset has 15971 entries and 24 features described below:
 When loaded in pandas this dataset file has a memory usage of 2.9 MB.
 
 ![Screenshot](info-lifestyle.png)
-
+:scale: 50%
