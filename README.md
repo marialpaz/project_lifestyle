@@ -1,18 +1,8 @@
 # project_lifestyle
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [1. The Business Challenge](#1-the-business-challenge)
+- [1. Introduction](#introduction)
 - [2. The Dataset](#2-the-dataset)
-- [3. Feature Engineering and Variables Filtering](#3-feature-engineering-and-variables-filtering)
-- [4. EDA Summary and Insights](#4-eda-summary-and-insights)
-- [5. Data Preparation and Feature Selection](#5-data-preparation-and-feature-selection)
-- [6. Machine Learning Modelling and Fine Tuning](#6-machine-learning-modelling-and-fine-tuning)
-- [7. Business Performance and Results](#7-business-performance-and-results)
-- [8. Next Steps](#8-next-steps)
-- [9. Lessons Learned](#9-lessons-learned)
-- [10. Conclusion](#10-conclusion)
-- [References](#references)
 
 ---
 
