@@ -1,7 +1,7 @@
 # project_lifestyle
 
-  * [1 - Introduction]
-  * [2 - The Dataset]
+  * [1 - Introduction](Intro)
+  * [2 - The Dataset](Dataset)
        * [Dataset Statistics](#or-using-pathogen)
        * [OR using Vundle](#or-using-vundle)
   * [License](#license)
