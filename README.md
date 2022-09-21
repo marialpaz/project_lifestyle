@@ -2,9 +2,10 @@
 
   * [1 - Introduction](Intro)
   * [2 - The Dataset](Dataset)
-       * [Dataset Statistics](#or-using-pathogen)
-       * [OR using Vundle](#or-using-vundle)
-  * [License](#license)
+       * [Dataset Statistics](#Data statis)
+  * [Exploratory Data Analysis](#EDA)
+  * [Feature Engineering](#FE)
+
 
 
 ## 1 - Introduction
