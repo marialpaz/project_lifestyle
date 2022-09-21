@@ -3,8 +3,8 @@
   * [Introduction](#Introduction)
   * [Screenshot](#screenshot)
   * [Installation](#installation)
-       * [OR using Pathogen:](#or-using-pathogen)
-       * [OR using Vundle:](#or-using-vundle)
+       * [OR using Pathogen](#or-using-pathogen)
+       * [OR using Vundle](#or-using-vundle)
   * [License](#license)
 
 
