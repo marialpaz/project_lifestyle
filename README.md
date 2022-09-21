@@ -1,10 +1,9 @@
 # project_lifestyle
 
-## Table of Contents
-- [1 - Introduction](#1%20-%20Introduction)
-- [2 - The Dataset](#2%20-%20The%20Dataset)
+# Table of Contents
+1 - [Introduction](#introduction)
+2 - [Dataset](#dataset)
 
----
 
 ## 1 - Introduction
 This project was developed using a dataset available in https://www.kaggle.com/datasets/ydalat/lifestyle-and-wellbeing-data?resource=download. The survey used to gather this data can be found in http://www.authentic-happiness.com/your-life-satisfaction-score and includes 24 attributes describing how we live our lives, including a calculated field, the WorkLifeBalance_Score. After exploring the data, it was built two different machine learning models in order to predict the body mass index from the lifestyle of the respondents.
@@ -16,7 +15,7 @@ THe development of this project was done according with the following steps:
 - Machine Learning Modelling and Tuning
 - Model Evaluation
 
-## 2 - The Dataset
+## 2 - Dataset
 The dataset has 15971 entries and 24 features described below:
 **Timestamp** - Date when survey was submitted.
 
