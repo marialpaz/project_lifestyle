@@ -1,8 +1,8 @@
 # project_lifestyle
 
 ## Table of Contents
-- [1. Introduction](#introduction)
-- [2. The Dataset](#2-the-dataset)
+- [1 - Introduction](#introduction)
+- [2 - The Dataset](#2-the-dataset)
 
 ---
 
