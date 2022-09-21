@@ -84,8 +84,9 @@ The dataset has 15971 entries and 24 features described below:
 
 When loaded in pandas this dataset file has a memory usage of 2.9 MB.
 
-<img src="info-lifestyle.png" width="550" height="500">
-
+<p align="center">
+<img src="info-lifestyle.png" width="550" height="500"/>
+</p>
 The dataset was split into train and test set with 70/30 ratio.
 
 
