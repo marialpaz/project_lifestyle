@@ -1,9 +1,8 @@
 # project_lifestyle
 
-  * [Introduction](#Introduction)
-  * [Screenshot](#screenshot)
-  * [Installation](#installation)
-       * [OR using Pathogen](#or-using-pathogen)
+  * [1 - Introduction]
+  * [2 - The Dataset]
+       * [Dataset Statistics](#or-using-pathogen)
        * [OR using Vundle](#or-using-vundle)
   * [License](#license)
 
