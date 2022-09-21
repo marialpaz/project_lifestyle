@@ -1,8 +1,8 @@
 # project_lifestyle
 
   * [1 - Introduction](#Introduction)
-  * [2 - The Dataset](#The Dataset)
-       * [2.1 - Dataset Statistics](#Dataset Statistics)
+  * [2 - The Dataset](#TheDataset)
+       * [2.1 - Dataset Statistics](#DatasetStatistics)
   * [Exploratory Data Analysis](#EDA)
   * [Feature Engineering](#FE)
 
