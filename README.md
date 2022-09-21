@@ -2,7 +2,7 @@
 
   * [1 - Introduction](Intro)
   * [2 - The Dataset](Dataset)
-       * [Dataset Statistics](#Data statis)
+       * [Dataset Statistics](#Data statistics)
   * [Exploratory Data Analysis](#EDA)
   * [Feature Engineering](#FE)
 
