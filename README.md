@@ -2,7 +2,7 @@
 
   * [1 - Introduction](Intro)
   * [2 - The Dataset](Dataset)
-       * [Dataset Statistics](#Data statistics)
+        * [OR using Pathogen](#or-using-pathogen)
   * [Exploratory Data Analysis](#EDA)
   * [Feature Engineering](#FE)
 
