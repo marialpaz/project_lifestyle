@@ -98,3 +98,8 @@ The dataset was split into train and test set with 70/30 ratio.
 
 There are 3 data types of data in the dataset: float64(5), int64(3) and object(3).  As shown in the image above, the dataset does not have NAN values.
 
+
+
+[back to top](#table-of-contents)
+
+---
