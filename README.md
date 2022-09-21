@@ -88,5 +88,5 @@ When loaded in pandas this dataset file has a memory usage of 2.9 MB.
 <img src="info-lifestyle.png" width="550" height="500"/>
 </p>
 The dataset was split into train and test set with 70/30 ratio.
-
+### Dataset statistics
 
