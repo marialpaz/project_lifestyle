@@ -107,18 +107,21 @@ From the plot above it seems more women are under lots of stress (3 0r more in t
 
 By doing that, we can affirm that the proportion of men and women under much stress in both groups are not very different.
 
-Another feature we explored was the "bmi_range" which is the body mass index and is represented by two classes: below 25 and above 25. First, let's see if they are balanced or not.
+Another feature explored was the "bmi_range" which is the body mass index and is represented by two classes: below 25 and above 25. First, let's see if they are balanced or not.
 
 <p align="center">
 <img src="bmi-balance.png" width="350" height="360"/>
 </p>
 
-
+Even thought most declared to belong to class 1 (below 25), there is not a high imbalance between them.
 
 
 
 
 ## 4. Data preparation
+
+Aiming to run a machine learning for this dataset, some data preparation is needed. For example, the columns "daily_stress", "todo_completed", "sufficient_income", "age" and  "gender" are categorical features, thus let's turn them into dummy variables.
+
 ## 5. Machine leaning modelling
 
 [back to top](#table-of-contents)
