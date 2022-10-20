@@ -95,8 +95,9 @@ When loaded in pandas this dataset file has a memory usage of 2.9 MB.
 The dataset was split into train and test set with 70/30 ratio.There are 3 data types of data in the dataset: float64(5), int64(3) and object(3).  As shown in the image above, the dataset does not have NAN values.
 
 ## 3. Exploratory data analysis
+
 <p align="center">
-<img src="countplot-stress-gender.png" width="550" height="300"/>
+<img src="countplot-stress-gender.png" width="500" height="300"/>
 </p>
 
 From the plot above it seems more women are under lots of stress (3 0r more in the stress scale). In order to investigate that, let's look for each group separately (women and men) and see how much of each group declared to experience a lot of daily stress. 
