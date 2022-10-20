@@ -127,6 +127,13 @@ Aiming to run a machine learning for this dataset, some data preparation is need
 <img src="dummies.png" width="850" height="60"/>
 </p>
 
+ Once there are not nan or missing values, the dataset is ready for a machine learning model. The timestamp column was dropped once in our problem this information did not show much importance.
+
+ After exploring the availabe data, let's use the 'bmi_range' as our target and try to predict it based in the input features.
+
+
+### Spliting the data
+
 
 ## 5. Machine leaning modelling
 
