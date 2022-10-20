@@ -102,7 +102,7 @@ The dataset was split into train and test set with 70/30 ratio.There are 3 data 
 From the plot above it seems more women are under lots of stress (3 0r more in the stress scale). In order to investigate that, let's look for each group separately (women and men) and see how much of each group declared to experience a lot of daily stress. 
 
 <p align="center">
-<img src="stress-percent.png" width="650" height="160"/>
+<img src="stress-percent.png" width="850" height="160"/>
 </p>
 
 By doing that, we can affirm that the proportion of men and women under much stress in both groups are not very different.
