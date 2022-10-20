@@ -90,15 +90,36 @@ The dataset has 15971 entries and 24 features described below:
 When loaded in pandas this dataset file has a memory usage of 2.9 MB.
 
 <p align="center">
-<img src="info-lifestyle.png" width="550" height="500"/>
+<img src="info-lifestyle.png" width="550" height="450"/>
 </p>
-The dataset was split into train and test set with 70/30 ratio.
+The dataset was split into train and test set with 70/30 ratio.There are 3 data types of data in the dataset: float64(5), int64(3) and object(3).  As shown in the image above, the dataset does not have NAN values.
 
-### 2.1. Dataset Statistics
+## 3. Exploratory data analysis
+<p align="center">
+<img src="countplot-stress-gender.png" width="550" height="400"/>
+</p>
 
-There are 3 data types of data in the dataset: float64(5), int64(3) and object(3).  As shown in the image above, the dataset does not have NAN values.
+From the plot above it seems more women are under lots of stress (3 0r more in the stress scale). In order to investigate that, let's look for each group separately (women and men) and see how much of each group declared to experience a lot of daily stress. 
+
+<p align="center">
+<img src="stress-percent.png" width="550" height="160"/>
+</p>
+
+By doing that, we can affirm that the proportion of men and women under much stress in both groups are not very different.
+
+Another feature we explored was the "bmi_range" which is the body mass index and is represented by two classes: below 25 and above 25. First, let's see if they are balanced or not.
+
+<p align="center">
+<img src="bmi-balance.png" width="350" height="360"/>
+</p>
 
 
+
+
+
+
+## 4. Data preparation
+## 5. Machine leaning modelling
 
 [back to top](#table-of-contents)
 
