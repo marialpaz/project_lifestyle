@@ -134,6 +134,14 @@ Aiming to run a machine learning for this dataset, some data preparation is need
 
 ### Spliting the data
 
+<p align="center">
+<img src="target.png" width="850" height="60"/>
+</p>
+
+<p align="center">
+<img src="features.png" width="850" height="60"/>
+</p>
+
 
 ## 5. Machine leaning modelling
 
