@@ -134,19 +134,19 @@ Aiming to run a machine learning for this dataset, some data preparation is need
 After exploring our dataset, the quantity taken as the target is the "bmi_range". Therefore, based on the other features, let's try to predicted if someone has a body mass inder below or above 25 from their lifestyle.
 
 <p align="center">
-<img src="target.png" width="850" height="45"/>
+<img src="target.png" width="850" height="40"/>
 </p>
 
 For the features, we are going to consider all features from our dataset  except "bmi_range" and "work_life_balance_score". This last one has to be dropped, once it is a calculated field from the answers of the respondents and it takes into account all the other features including "bmi_range".
 
 <p align="center">
-<img src="features.png" width="850" height="55"/>
+<img src="features.png" width="850" height="50"/>
 </p>
 
 ### Spliting the data
 
 <p align="center">
-<img src="splitting.png" width="850" height="190"/>
+<img src="splitting.png" width="850" height="195"/>
 </p>
 
 
