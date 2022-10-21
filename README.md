@@ -149,6 +149,7 @@ For the features, we are going to consider all features from our dataset  except
 <img src="splitting.png" width="850" height="210"/>
 </p>
 
+After the steps above, all data is ready to run a machine learning model. 
 
 ## 5. Machine learning modelling
 
