@@ -131,9 +131,6 @@ Aiming to run a machine learning for this dataset, some data preparation is need
 
  After exploring the availabe data, let's use the 'bmi_range' as our target and try to predict it based in the input features.
 
-
-### Spliting the data
-
 After exploring our dataset, the quantity taken as the target is the "bmi_range". Therefore, based on the other features, let's try to predicted if someone has a body mass inder below or above 25 from their lifestyle.
 
 <p align="center">
@@ -146,8 +143,14 @@ For the features, we are going to consider all features from our dataset  except
 <img src="features.png" width="850" height="55"/>
 </p>
 
+### Spliting the data
 
-## 5. Machine leaning modelling
+<p align="center">
+<img src="splitting.png" width="850" height="55"/>
+</p>
+
+
+## 5. Machine learning modelling
 
 [back to top](#table-of-contents)
 
