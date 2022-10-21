@@ -146,7 +146,7 @@ For the features, we are going to consider all features from our dataset  except
 ### Spliting the data
 
 <p align="center">
-<img src="splitting.png" width="850" height="55"/>
+<img src="splitting.png" width="850" height="100"/>
 </p>
 
 
