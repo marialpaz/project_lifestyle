@@ -135,11 +135,11 @@ Aiming to run a machine learning for this dataset, some data preparation is need
 ### Spliting the data
 
 <p align="center">
-<img src="target.png" width="850" height="50"/>
+<img src="target.png" width="850" height="45"/>
 </p>
 
 <p align="center">
-<img src="features.png" width="850" height="50"/>
+<img src="features.png" width="850" height="55"/>
 </p>
 
 
