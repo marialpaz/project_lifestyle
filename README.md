@@ -162,10 +162,14 @@ The following machine learning models were considered to predict the "bmi-range"
 The performance of the models were evaluated by the classification_report and confusion matrix, both of them imported from sklearn.metrics.
 ### Random Forest
 
+<p align="center">
+<img src="CR-random forest.png" width="850" height="210"/>
+</p>
 
 
-
-
+<p align="center">
+<img src="cm-random forest.png" width="850" height="210"/>
+</p>
 
 
 
