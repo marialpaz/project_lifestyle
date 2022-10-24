@@ -170,7 +170,7 @@ The performance of the models were evaluated by the classification_report and co
 #### confusion matrix 
 
 <p align="center">
-<img src="cm-random forest.png" width="840" height="235"/>
+<img src="cm-random forest.png" width="840" height="285"/>
 </p>
 
 
