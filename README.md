@@ -146,7 +146,7 @@ For the features, we are going to consider all features from our dataset  except
 ### Spliting the data
 
 <p align="center">
-<img src="splitting.png" width="850" height="210"/>
+<img src="splitting.png" width="850" height="220"/>
 </p>
 
 After the steps above, all data is ready to be used a machine learning model. 
