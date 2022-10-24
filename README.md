@@ -124,7 +124,7 @@ Even thought most declared to belong to class 1 (below 25), there is not a high 
 Aiming to run a machine learning for this dataset, some data preparation is needed. For example, the columns "daily_stress", "todo_completed", "sufficient_income", "age" and  "gender" are categorical features, thus let's turn them into dummy variables.
 
 <p align="center">
-<img src="dummies.png" width="850" height="70"/>
+<img src="dummies.png" width="860" height="70"/>
 </p>
 
  Once there are not nan or missing values, the dataset is ready for a machine learning model. The timestamp column was dropped once in our problem this information did not show much importance.
