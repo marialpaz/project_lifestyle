@@ -173,6 +173,19 @@ The performance of the models were evaluated by the classification_report and co
 <img src="cm-random forest.png" width="850" height="300"/>
 </p>
 
+### Logistic Regression 
+
+#### Classification report
+<p align="center">
+<img src="cr-logistic.png" width="850" height="185"/>
+</p>
+
+#### confusion matrix 
+
+<p align="center">
+<img src="cm-logistic.png" width="850" height="300"/>
+</p>
+
 
 [back to top](#table-of-contents)
 
