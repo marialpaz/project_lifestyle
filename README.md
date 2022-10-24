@@ -186,7 +186,7 @@ The performance of the models were evaluated by the classification_report and co
 <img src="cm-logistic.png" width="850" height="300"/>
 </p>
 
-Even though both models do not present a very good accuracy, the Random Forest has slightly better metrics for class 1 (below 25) and 2 (above 25). The LR as well as the RF model are predicting many cases belonging class 1 (below 25) when the true label is in fact class 2 (above 25). To make sure that the model is certain that a case belongs to class 1, we guarantee that it only predicts that an example belongs to this class when the probability is equal or above 58%, which represents the percentage of respondents who declared to belong to class 1.
+Even though both models do not present a very good accuracy, the Random Forest has slightly better metrics for class 1 (below 25) and 2 (above 25). The LR as well as the RF model are predicting many cases belonging class 1 (below 25) when the true label is in fact class 2 (above 25). To make sure that the model is certain that a case belongs to class 1, we guarantee that it only predicts that an example belongs to this class when the probability is equal or above 0,58 (58%), which represents the percentage of respondents who declared to belong to class 1.
 
 ### Increasing threshold - 58%
 
@@ -201,6 +201,21 @@ Even though both models do not present a very good accuracy, the Random Forest h
 
 
 By making the model only predicting an example as belonging to class 1 when the probability is higher than 0,58 (58 %) did not increase the accuracy, but on the other hand the true positive - TP and true negative - TN classes are much better predicted by the model, as a consequence the other metrics for class 2 were much improved.
+
+
+Another possibility to optimize the Logistic Regression model proposed here is to use GridSearchCV for hyperparameters tuning.
+
+### Hyperparameters tuning 
+
+
+
+<p align="center">
+<img src="gridsearching1.png" width="850" height="300"/>
+</p>
+
+
+
+
 
 [back to top](#table-of-contents)
 
