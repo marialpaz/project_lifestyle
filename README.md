@@ -190,6 +190,14 @@ Even though both models do not present a very good accuracy, the Random Forest h
 
 ### Increasing threshold
 
+<p align="center">
+<img src="cr-threshold.png" width="850" height="185"/>
+</p>
+
+
+<p align="center">
+<img src="cm-threshold.png" width="850" height="300"/>
+</p>
 
 [back to top](#table-of-contents)
 
