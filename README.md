@@ -186,6 +186,8 @@ The performance of the models were evaluated by the classification_report and co
 <img src="cm-logistic.png" width="850" height="300"/>
 </p>
 
+Even though both models do not present a very good accuracy, the Random Forest has slightly better metrics for class 1 (below 25) and 2 (above 25).
+
 
 [back to top](#table-of-contents)
 
