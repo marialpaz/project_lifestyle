@@ -163,12 +163,12 @@ The performance of the models were evaluated by the classification_report and co
 ### Random Forest
 
 <p align="center">
-<img src="CR-random forest.png" width="850" height="210"/>
+<img src="CR-random forest.png" width="850" height="200"/>
 </p>
 
 
 <p align="center">
-<img src="cm-random forest.png" width="850" height="210"/>
+<img src="cm-random forest.png" width="850" height="215"/>
 </p>
 
 
