@@ -149,9 +149,23 @@ For the features, we are going to consider all features from our dataset  except
 <img src="splitting.png" width="850" height="210"/>
 </p>
 
-After the steps above, all data is ready to run a machine learning model. 
+After the steps above, all data is ready to be used a machine learning model. 
 
 ## 5. Machine learning modelling
+
+### 5.1 Models and performance
+
+The following machine learning models were considered to predict the "bmi-range" of the respondents.
+* Random Forest
+* Logistic Regression
+
+
+
+
+
+
+
+
 
 [back to top](#table-of-contents)
 
