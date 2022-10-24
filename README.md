@@ -153,12 +153,14 @@ After the steps above, all data is ready to be used a machine learning model.
 
 ## 5. Machine learning modelling
 
-### 5.1 Models and performance
+### 5.1.  Models and performance
 
 The following machine learning models were considered to predict the "bmi-range" of the respondents.
 * Random Forest
 * Logistic Regression
 
+The performance of the models were evaluated by the classification_report and confusion matrix, both of them imported from sklearn.metrics.
+### Random Forest
 
 
 
