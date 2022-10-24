@@ -162,12 +162,12 @@ The following machine learning models were considered to predict the "bmi-range"
 The performance of the models were evaluated by the classification_report and confusion matrix, both of them imported from sklearn.metrics.
 ### Random Forest
 
+#### Classification report
 <p align="center">
 <img src="CR-random forest.png" width="850" height="185"/>
 </p>
 
-![bmi] (bmi-balance.png)
-kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+#### confusion matrix 
 
 <p align="center">
 <img src="cm-random forest.png" width="840" height="235"/>
