@@ -111,7 +111,7 @@ By doing that, we can affirm that the proportion of men and women under much str
 Another feature explored was the "bmi_range" which is the body mass index and is represented by two classes: below 25 and above 25. First, let's see if they are balanced or not.
 
 <p align="center">
-<img src="bmi-balance.png" width="350" height="360"/>
+<img src="bmi-balance.png" width="360" height="370"/>
 </p>
 
 Even thought most declared to belong to class 1 (below 25), there is not a high imbalance between them.
