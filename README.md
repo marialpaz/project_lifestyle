@@ -216,7 +216,7 @@ Another possibility to optimize the Logistic Regression model proposed here is t
 
 
 <p align="center">
-<img src="gridsearching2.png" width="850" height="100"/>
+<img src="gridsearching2.png" width="850" height="130"/>
 </p>
 
 
