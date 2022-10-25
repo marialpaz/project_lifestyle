@@ -140,7 +140,7 @@ After exploring our dataset, the quantity taken as the target is the "bmi_range"
 For the features, we are going to consider all features from our dataset  except "bmi_range" and "work_life_balance_score". This last one has to be dropped, once it is a calculated field from the answers of the respondents and it takes into account all the other features including "bmi_range".
 
 <p align="center">
-<img src="features.png" width="850" height="50"/>
+<img src="features.png" width="850" height="40"/>
 </p>
 
 ### Spliting the data
