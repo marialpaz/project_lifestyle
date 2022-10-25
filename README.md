@@ -215,6 +215,9 @@ Another possibility to optimize the Logistic Regression model proposed here is t
 
 
 
+<p align="center">
+<img src="gridsearching2.png" width="850" height="150"/>
+</p>
 
 
 [back to top](#table-of-contents)
