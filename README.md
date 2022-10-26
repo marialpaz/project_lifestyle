@@ -108,7 +108,7 @@ In this section it was explored the available information in order to get to kno
 <img src="countplot-stress-gender.png" width="540" height="320"/>
 </p>
 
-From the plot above it seems more women are under lots of stress (3 0r more in the stress scale). In order to investigate that, it was treated each group separately (women and men) to how much of each group declared to experience a lot of daily stress. 
+From the plot above it seems more women are under lots of stress (3 0r more in the stress scale). In order to investigate that, it was treated each group separately (women and men) to see how much of each group declared to experience a lot of daily stress. 
 
 <p align="center">
 <img src="stress-percent.png" width="870" height="180"/>
