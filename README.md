@@ -129,17 +129,15 @@ Even thought most declared to belong to class 1 (below 25), there is not a high 
 
 ## 4. Data preparation
 
-Aiming to run a machine learning for this dataset, some data preparation is needed. For example, the columns "daily_stress", "todo_completed", "sufficient_income", "age" and  "gender" are categorical features, thus let's turn them into dummy variables.
+Aiming to run a machine learning for this dataset, some data preparation was needed. For example, the columns "daily_stress", "todo_completed", "sufficient_income", "age" and  "gender" are categorical features, thus they were turned into dummy variables.
 
 <p align="center">
 <img src="dummies.png" width="875" height="60"/>
 </p>
 
- Once there are not nan or missing values, the dataset is ready for a machine learning model. The timestamp column was dropped once in our problem this information did not show much importance.
+ Once there were not nan or missing values, the dataset was ready for a machine learning model. The timestamp column was dropped once in our problem this information did not show much importance.
 
- After exploring the availabe data, let's use the 'bmi_range' as our target and try to predict it based in the input features.
-
-After exploring our dataset, the quantity taken as the target is the "bmi_range". Therefore, based on the other features, let's try to predicted if someone has a body mass inder below or above 25 from their lifestyle.
+After exploring our dataset, the quantity taken as the target is the "bmi_range". Therefore, based on the other features, it was predicted if someone has a body mass index below or above 25 from their lifestyle.
 
 <p align="center">
 <img src="target.png" width="850" height="40"/>
