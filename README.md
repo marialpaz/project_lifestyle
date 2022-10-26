@@ -195,7 +195,7 @@ The performance of the models were evaluated by the classification_report and co
 
 Even though both models did not present a very good accuracy, the Random Forest has slightly better metrics for class 1 (below 25) and 2 (above 25). The LR as well as the RF model are predicting many cases belonging class 1 (below 25) when the true label is in fact class 2 (above 25). To make sure that the model was certain that a case belonged to class 1, we guaranteed that it was only predicting that an example belonged to this class when the probability was equal or above 0,58 (58%), which represents the percentage of respondents who declared to belong to class 1.
 
-### Increasing threshold - 58%
+#### Increasing threshold - 58%
 
 <p align="center">
 <img src="prob-58.png" width="850" height="175"/>
@@ -216,7 +216,7 @@ By making the model only predicting an example as belonging to class 1 when the 
 
 Another possibility to optimize the Logistic Regression model proposed here is to use GridSearchCV for hyperparameters tuning.
 
-### Hyperparameters tuning 
+#### Hyperparameters tuning 
 
 
 
