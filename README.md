@@ -150,7 +150,7 @@ For the features, we considered all features from our dataset,  except "bmi_rang
 </p>
 
 ### Spliting the data
-The next step was to split the data into train ans test sets.
+The next step was to split the data into train and test sets.
 
 <p align="center">
 <img src="splitting.png" width="850" height="215"/>
