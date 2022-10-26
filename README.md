@@ -193,7 +193,7 @@ The performance of the models were evaluated by the classification_report and co
 <img src="cm-logistic.png" width="850" height="300"/>
 </p>
 
-Even though both models do not present a very good accuracy, the Random Forest has slightly better metrics for class 1 (below 25) and 2 (above 25). The LR as well as the RF model are predicting many cases belonging class 1 (below 25) when the true label is in fact class 2 (above 25). To make sure that the model is certain that a case belongs to class 1, we guarantee that it only predicts that an example belongs to this class when the probability is equal or above 0,58 (58%), which represents the percentage of respondents who declared to belong to class 1.
+Even though both models did not present a very good accuracy, the Random Forest has slightly better metrics for class 1 (below 25) and 2 (above 25). The LR as well as the RF model are predicting many cases belonging class 1 (below 25) when the true label is in fact class 2 (above 25). To make sure that the model was certain that a case belonged to class 1, we guaranteed that it was only predicting that an example belonged to this class when the probability was equal or above 0,58 (58%), which represents the percentage of respondents who declared to belong to class 1.
 
 ### Increasing threshold - 58%
 
