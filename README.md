@@ -137,7 +137,7 @@ Aiming to run a machine learning for this dataset, some data preparation was nee
 
  Once there were not nan or missing values, the dataset was ready for a machine learning model. The timestamp column was dropped once in our problem this information did not show much importance.
 
-After exploring our dataset, the quantity taken as the target is the "bmi_range". Therefore, based on the other features, it was predicted if someone has a body mass index below or above 25 from their lifestyle.
+After exploring our dataset, the quantity taken as the target was the "bmi_range". Therefore, based on the other features, it was predicted if someone has a body mass index below or above 25 from their lifestyle.
 
 <p align="center">
 <img src="target.png" width="850" height="40"/>
