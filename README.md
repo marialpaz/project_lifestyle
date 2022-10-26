@@ -198,7 +198,7 @@ Even though both models did not present a very good accuracy, the Random Forest 
 ### Increasing threshold - 58%
 
 <p align="center">
-<img src="prob-58.png" width="850" height="185"/>
+<img src="prob-58.png" width="850" height="175"/>
 </p>
 
 <p align="center">
