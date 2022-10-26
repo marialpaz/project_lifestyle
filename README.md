@@ -98,9 +98,11 @@ When loaded in pandas this dataset file has a memory usage of 2.9 MB.
 <p align="center">
 <img src="info-lifestyle.png" width="550" height="450"/>
 </p>
-The dataset was split into train and test set with 70/30 ratio.There are 3 data types of data in the dataset: float64(5), int64(3) and object(3).  As shown in the image above, the dataset does not have NAN values.
+The dataset was split into train and test set with 70/30 ratio.There are 3 types of data in the dataset: float64(5), int64(3) and object(3).  As shown in the image above, the dataset does not have NAN values.
 
 ## 3. Exploratory data analysis
+
+Now, let's explore the available information in order to get to know the data and decide what we are going to investigate deeper.
 
 <p align="center">
 <img src="countplot-stress-gender.png" width="540" height="320"/>
