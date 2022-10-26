@@ -102,7 +102,7 @@ The dataset was split into train and test set with 70/30 ratio.There are 3 types
 
 ## 3. Exploratory data analysis
 
-Now, let's explore the available information in order to get to know the data and decide what we are going to investigate deeper. The first feature we are going to look into is the "daily_stress".
+In this section it was explored the available information in order to get to know the data and decide what to investigate deeper. The first feature we looked into was the "daily_stress".
 
 <p align="center">
 <img src="countplot-stress-gender.png" width="540" height="320"/>
