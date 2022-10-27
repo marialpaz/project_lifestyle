@@ -214,15 +214,19 @@ Even though both models did not present a very good accuracy, the Random Forest 
 By making the model only predicting an example as belonging to class 1 when the probability was higher than 0,58 (58 %) did not increase the accuracy, but on the other hand the true positive - TP and true negative - TN classes are much better predicted by the model, as a consequence the other metrics for class 2 were much improved.
 
 
-Another possibility to optimize the Logistic Regression model proposed here is to use GridSearchCV for hyperparameters tuning.
+Another possibility to optimize the Logistic Regression model proposed here is to use GridSearchCV for hyper-parameters tuning.
 
-#### Hyperparameters tuning 
+#### Hyper-parameters tuning 
 
+Hyper-parameters are parameters not directly learnt within a estimator, which in this case is the LogisticRegression(). In scikit-learn they are passed as arguments to the constructor of the estimator classes.
 
+In scikit-learn there are two generic approaches to search the best parameters: for given values, GridSearchCV exhaustively considers all parameter combinations, while RandomizedSearchCV can sample a given number of candidates from a parameter space with a specified distribution. Here, we decided to use the GridSearchCV approach.
 
 <p align="center">
 <img src="gridsearching1.png" width="850" height="150"/>
 </p>
+
+The grid search provided by GridSearchCV generates candidates from a grid of parameter values specified with the param_grid parameter.
 
 <p align="center">
 <img src="gridsearch.png" width="850" height="110"/>
