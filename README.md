@@ -225,7 +225,7 @@ Another possibility to optimize the Logistic Regression model proposed here is t
 </p>
 
 <p align="center">
-<img src="gridsearch.png" width="850" height="130"/>
+<img src="gridsearch.png" width="850" height="110"/>
 </p>
 
 After this process, we have the best parameters for a better accuracy. However, even by doing that the accuracy of the logistic regression model did not increase.
