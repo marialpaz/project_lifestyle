@@ -232,7 +232,7 @@ The grid search provided by GridSearchCV generates candidates from a grid of par
 <img src="gridsearch.png" width="850" height="110"/>
 </p>
 
-After this process, we have the best parameters for a better accuracy. However, even by doing that the accuracy of the logistic regression model did not increase.
+After this process, we have the best parameters for a better performance of the model. However, even by doing that the accuracy of the logistic regression model did not increase.
 
 <p align="center">
 <img src="gridsearchingcv.png" width="850" height="100"/>
